@@ -1,0 +1,31 @@
+**** Output 1:
+Fishing for hour 1
+Fishing for hour 2
+Fishing for hour 3
+Fishing for hour 4
+
+**** Output 2:
+
+Day 1: camping
+and Fishing
+
+Day 2: camping
+and Fishing
+
+Day 3: camping
+and Fishing
+
+Day 4: camping
+and Fishing
+
+Day 5: camping
+and Fishing
+
+Day 6: camping
+
+Day 7: camping
+
+**** 3 - something returned:Something
+
+**** Value of b:
+2
