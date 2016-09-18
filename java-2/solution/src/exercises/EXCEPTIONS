@@ -1,0 +1,7 @@
+EXCEPTIONS
+
+1) FileReader variable: fr, is out of scope in second try-block
+
+2) C. Compilation fails.
+
+3) D. Hello world Finally executing
