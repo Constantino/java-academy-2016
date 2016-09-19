@@ -10,7 +10,7 @@ import java.util.TreeSet;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Collections {
+public class MyCollections {
 
 	public static void main(String[] args){
 		
