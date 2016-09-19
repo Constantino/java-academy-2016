@@ -1,6 +1,5 @@
 #In your own words what is the JVM?
-######It's someting that can take a pre-compiled code and then handle it to compile it even deeper so it can interact with a ######specific operating system, so the programmer does not have to prepare code for a specific platform, it's the virtual 
-######machine of that operating system who's going to take care of it.
+######It's someting that can take a pre-compiled code and then handle it to compile it even deeper so it can interact with a specific operating system, so the programmer does not have to prepare code for a specific platform, it's the virtual machine of that operating system who's going to take care of it.
 
 #What about JIT? What is it?
 ######Just-In-Time compiler, takes de bytecode and compiles it to native code.
@@ -20,7 +19,7 @@
 
 #How to increase Java heap?
 ######Xmxn
-######Specify the maximum size, in bytes, of the memory allocation pool. This value must a multiple of 1024 greater than 2MB. ######Append the letter k or K to indicate kilobytes, or m or M to indicate megabytes. The default value is chosen at runtime based ######on system configuration.
+######Specify the maximum size, in bytes, of the memory allocation pool. This value must a multiple of 1024 greater than 2MB. Append the letter k or K to indicate kilobytes, or m or M to indicate megabytes. The default value is chosen at runtime based on system configuration.
 ######Examples:
 ######	-Xmx83886080
 ######    -Xmx81920k
