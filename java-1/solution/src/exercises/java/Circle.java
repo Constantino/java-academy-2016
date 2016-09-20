@@ -1,6 +1,6 @@
 package exercises.java;
 
-public class Circle {
+public class Circle extends Shape {
 	
 	private double radius;
 	private String color;
@@ -49,5 +49,11 @@ public class Circle {
 	public String toString(){
 		
 		return "Radius: "+this.radius+" Color: "+this.color;
+	}
+
+	@Override
+	public double getPerimeter() {
+		// TODO Auto-generated method stub
+		return Math.PI*2*this.radius;
 	} 
 }
